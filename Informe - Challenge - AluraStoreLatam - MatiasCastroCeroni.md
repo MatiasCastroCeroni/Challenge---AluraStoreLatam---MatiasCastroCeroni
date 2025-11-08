@@ -87,5 +87,5 @@ La **Tienda 1** es la **recomendada para vender**, ya que combina:
 ---
 
 📈 *Proyecto desarrollado en Google Colab — Librerías utilizadas: pandas, matplotlib, numpy.*  
-👨‍💻 *Autor: Matías Ceroni Castro*  
+👨‍💻 *Autor: Matías Castro Ceroni*  
 📅 *Fecha: Noviembre 2025*
